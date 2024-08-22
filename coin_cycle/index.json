@@ -1,7 +1,6 @@
 {
   "packs": [
-    "liaotian.json",
-    "coin_cycle.json"
+    "deep_ccc_stickers.json"
   ],
   "homeserver_url": "https://homeserver.ueon.xyz"
 }
