@@ -1,7 +1,10 @@
 {
-  "packs": [
-    "liaotian.json",
-    "coin_cycle.json"
-  ],
-  "homeserver_url": "https://homeserver.ueon.xyz"
+	"packs": [
+		"kaifa8.json",
+		"liaotian.json",
+		"pite01_1.json",
+		"gzxiuche.json",
+		"coin_cycle.json"
+	],
+	"homeserver_url": "https://homeserver.ueon.xyz"
 }
