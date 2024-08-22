@@ -1,0 +1,9 @@
+{
+	"homeserver_url": "https://homeserver.ueon.com",
+	"packs": [
+		"scalar-geeko.json",
+		"scalar-isabella.json",
+		"scalar-loading_artist.json",
+		"scalar-privacy_pam.json"
+	]
+}
